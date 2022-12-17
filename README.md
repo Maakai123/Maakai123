@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maakai123
-- 👀 I’m interested in python and Blockchain
-- 🌱 I’m currently learning Python and Solidity
-- 💞️ I’m looking to collaborate on Python and blockchain contracts
+- 👀 I’m interested in Javascript and Blockchain
+- 🌱 I’m currently learning Javascript and Solidity
+- 💞️ I’m looking to collaborate on Javascript and blockchain contracts
 - 📫 How to reach me ...
 
 <!---
